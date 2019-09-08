@@ -1,0 +1,17 @@
+{
+  "name": "node-postgress",
+  "version": "0.0.1",
+  "description": "Node api with postgress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "Dheeraj Kumar Rao",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "pg": "^7.12.1",
+    "pg-promise": "^9.1.4"
+  }
+}
